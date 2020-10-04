@@ -8,3 +8,6 @@
 c/c++安装visual studio + opencv
 或
 python + opencv
+
+python安装opencv工具包
+pip install opencv-python
